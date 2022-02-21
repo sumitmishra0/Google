@@ -1,0 +1,16 @@
+.searchInput{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.googleSearchImg{
+    margin-top: 0px;
+    width: 200px;
+    height: 100px;
+}
+.title{
+    color: blue;
+}
+.description{
+    /* max-width: 600px; */
+}
